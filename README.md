@@ -15,6 +15,17 @@
   </ul>
 </div>
 
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+
+Hola, soy un programador Fullstack
+
+
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+
+
 
 <!--- snake -->
 <div align="center">
