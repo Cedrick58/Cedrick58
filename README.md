@@ -11,14 +11,14 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">⭐✨Hola! Soy Cedrick✨⭐</h1></summary>
+    <summary><h1 style="display: inline-block">⭐✨Hi! I´m Cedrick Axel✨⭐</h1></summary>
   </ul>
 </div>
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Juhi+Pathak;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+@+thelone.artist"></p>
-<h3 align="center">Ingeniero en Desarrollo y Gestión de Software | IA Developer Student, Cerberus | English Student</h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Cedrick+Morán;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer"></p>
+<h3 align="center">Software Development and Management Engineer | IA Developer Student, Cerberus | English Student, Cambridge School</h3>
 
 <img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
 
@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on **MORE Computación**
 
-- 🌱 I’m currently learning **English an IA**
+- 🌱 I’m currently learning **English and automations with IA**
 
 - 📝 I will write articles on <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
@@ -70,17 +70,7 @@ const Juhi = {
 </table>  
 
 -------------------
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
-<br>
 
-<p align="left"> 
-  <a href="https://leetcode.com/u/pathakjuhi/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/juhi_pathak" target="_blank">  <img alt="CodeChef" width="125" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/pathakkakul" target="_blank">  <img alt="HackerRank" width="125" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/juhipathak" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerearth.com/@pathakkakul" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.naukri.com/code360/profile/juhipathak" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 -------------------
 
