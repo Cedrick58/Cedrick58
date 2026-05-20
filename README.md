@@ -18,32 +18,32 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Juhi+Pathak;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+@+thelone.artist"></p>
-<h3 align="center">CSE Undergrad, 3rd Year | Lead at Google Developer Student Club, GLBITM | Ex-SDE Intern at Cognizant</h3>
+<h3 align="center">Ingeniero en Desarrollo y Gestión de Software | IA Developer Student, Cerberus | English Student</h3>
 
 <img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" width="150"/> </p>
 
-- 🔭 I’m currently working on **EcoParali**, sponsored by GoI
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🔭 I’m currently working on **MORE Computación**
+
+- 🌱 I’m currently learning **English an IA**
 
 - 📝 I will write articles on <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
 - 💬 Ask me about **Full Stack Dev, AIML, Graphic Designing**
 
-- 📫 How to reach me **pathakkakul@gmail.com**
+- 📫 How to reach me **axelmoranreyes58@gmail.com**
 
-- ⚡ Fun fact **I am a big Harry Potter fan! Expecto Patronum**
+- ⚡ Fun fact **I am a big Kansas City Chiefs fan, Ad Victoriam**
 
 -----------------------
 ## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A little bit about Myself :)</b>
 
 ```javascript
 const Juhi = {
-  pronouns: "She" | "Her",
+  pronouns: "He" | "His",
   code: ["C++", "Python", "Java", "Javascript", "HTML", "CSS"],
-  askMeAbout: ["Web Dev", "Frontend Dev", "Python", "AIML", "GCP"],
+  askMeAbout: ["Web Dev", "Frontend Dev", "Python", "React", "Laravel"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap"],
       backend: ["GCP", "AIML", "Databases"],
