@@ -17,7 +17,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Cedrick+Morán;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer"></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Cedrick+Morán;I'm+Software+Developer;I'm+Frontend+Developer;I'm+AI+Engineer"></p>
 <h3 align="center">Software Development and Management Engineer | IA Developer Student, Cerberus | English Student, Cambridge School</h3>
 
 <img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
@@ -28,19 +28,20 @@
 
 - 🌱 I’m currently learning **English and automations with IA**
 
-- 📝 I will write articles on <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
-
 - 💬 Ask me about **Full Stack Dev, AIML, Graphic Designing**
 
 - 📫 How to reach me **axelmoranreyes58@gmail.com**
 
-- ⚡ Fun fact **I am a big Kansas City Chiefs fan, Ad Victoriam**
+- ⚡ Fun fact **I am a big Kansas City Chiefs fan. ¡Ad Victoriam!**
 
 -----------------------
-## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A little bit about Myself :)</b>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+
 
 ```javascript
-const Juhi = {
+const Axel = {
   pronouns: "He" | "His",
   code: ["C++", "Python", "Java", "Javascript", "HTML", "CSS"],
   askMeAbout: ["Web Dev", "Frontend Dev", "Python", "React", "Laravel"],
@@ -74,7 +75,7 @@ const Juhi = {
 
 -------------------
 
-## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills that make me TECH-SAVVY</b>
+## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills✨</b>
 
 ### 📋 Programming languages
 
@@ -294,66 +295,10 @@ const Juhi = {
 
 ----------------------
 
-## :mailbox: Get In Touch
-<div align="center">
-<table border="0">
-  <tr>
-    <td> <a href="https://linkedin.com/in/juhi pathak" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Juhi Pathak-%23FC5531?style=for-the-badge"> </a> </td>
-    <td> <a href="https://twitter.com/the_loneartist" target="_blank"> <img src="https://img.shields.io/badge/Twitter-The_LoneArtist-%23FC5531?style=for-the-badge""> </a> </td>
-    <td> <a href="https://discord.gg/7346" target="_blank">  <img src="https://img.shields.io/badge/Discord-TheLoneArtist-%23FC5531?style=for-the-badge"> </a> </td>
-    <td> <a href="https://medium.com/@pathakkakul" target="_blank">  <img src="https://img.shields.io/badge/Medium-Pathakkakul-%23FC5531?style=for-the-badge"> </a> </td>
-    </tr>
-</table>
-</div>
-
-------------------------
 
 
 
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-
-Hola, soy un programador Fullstack
-
-
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
-
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
-
-       
+   
      
 <div align="center">
 
@@ -417,7 +362,7 @@ Technologies and Languages </h2>
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) 
-<h3> + mucho más! </h3>
+<h3> + much more! </h3>
 
 
 
@@ -437,7 +382,7 @@ Technologies and Languages </h2>
 
 </br>
 </br>
-<i>Un pequeño chiste de Devs</i><br>
+<i>A little joke for Devs</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
