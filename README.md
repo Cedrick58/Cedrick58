@@ -11,7 +11,10 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">⭐✨Hi! I´m Cedrick Axel✨⭐</h1></summary>
+    <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
+    <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
+    <summary><h1 style="display: inline-block">⭐✨Hi! I'm Cedrick Axel✨⭐</h1></summary>
+    
   </ul>
 </div>
 
@@ -435,49 +438,17 @@ Technologies and Languages </h2>
 </p>
 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=GovindSingh9447&style=flat&color=blue"> •   
-  <a href="https://user-badge.committers.top/india_private/GovindSingh9447"><img src="https://user-badge.committers.top/india_private/GovindSingh9447.svg"></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/GovindSingh9447?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/GovindSingh9447?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/GovindSingh9447"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
-</p>
+
 
 
 #
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=GovindSingh9447&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Cedrick58&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
