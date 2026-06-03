@@ -23,17 +23,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Cedrick+Morán;I'm+Software+Developer;I'm+Frontend+Developer;I'm+AI+Engineer"></p>
 <h3 align="center">Software Development and Management Engineer | IA Developer Student, Cerberus | English Student, Cambridge School</h3>
 
-<img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
+<img align="right" alt="coding" height="300" width="500" src="assets/code.jpg">
 
 
 
-- 🔭 I’m currently working on **MORE Computación**
+- 💼 I’m currently working on **MORE Computación**
 
-- 🌱 I’m currently learning **English and automations with IA**
+- 📓 I’m currently learning **English and automations with IA**
 
-- 💬 Ask me about **Full Stack Dev, AIML, Graphic Designing**
+- ⭐ Ask me about **Full Stack Dev, AI, Cibersecurity**
 
-- 📫 How to reach me **axelmoranreyes58@gmail.com**
+- 👑 How to reach me **axelmoranreyes58@gmail.com**
 
 - ⚡ Fun fact **I am a big Kansas City Chiefs fan. ¡Ad Victoriam!**
 
