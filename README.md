@@ -35,7 +35,7 @@
 
 - 👑 How to reach me **axelmoranreyes58@gmail.com**
 
-- ⚡ Fun fact **I am a big Kansas City Chiefs fan. ¡Ad Victoriam!**
+- ⚡ Fun fact **I am a big Kansas City Chiefs fan.  ¡Ad Victoriam!**
 
 -----------------------
 
