@@ -23,7 +23,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Cedrick+Morán;I'm+Software+Developer;I'm+Frontend+Developer;I'm+AI+Engineer"></p>
 <h3 align="center">Software Development and Management Engineer | IA Developer Student, Cerberus | English Student, Cambridge School</h3>
 
-<img align="right" alt="coding" height="300" width="500" src="assets/code.jpg">
+<img align="right" alt="coding" height="250" width="500" src="assets/code.jpg">
 
 
 
